@@ -14,3 +14,6 @@ sudo apt-get install -y mongodb-org
 
 #verified that mongod restarts automatically at boot:
 sudo systemctl enable mongod
+
+
+https://mongodb-documentation.readthedocs.io/en/latest/ecosystem/tutorial/install-mongodb-on-amazon-ec2.html
